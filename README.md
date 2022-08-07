@@ -6,7 +6,7 @@
 Bloxflip Rain Catcher is a simple easy non-lag python script that joins all Bloxflip rains for you automatically. It opens up a chrome webbrowser then clicks the rain button accordingly.
 https://bloxflip.com
 
-This program is paid and obfuscated 
+This program is paid and obfuscated! Proof of it working is in the server also, I am open to live streaming it etc.
 
 ## Prices
 * One Day = 50 Robux (Limited Time)
