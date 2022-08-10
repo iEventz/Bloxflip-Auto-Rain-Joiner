@@ -16,8 +16,8 @@ This program is paid and obfuscated! Proof of it working is in the server also, 
 * **50% OFF**
 
 ### Usuage
-* cookie = Bloxflip Cookie/Autho
+* cookie = Bloxflip Cookie/Autho (Not needed)
 * authorization = A key that buyers get and are HWID locked.
-* auto_join = If its on true it will automatically open the browser and join the rain for you. (AFK method) If its on false it will not join the rain for you just open the browser and add a notification. 
-* set_color = The color of the loading Ex: https://gyazo.com/e64faf2a8c22513b360f6894fcc201c9 
-* no_text = Whether you want the text or not. False = Text, True = No Tex
+* set_color = Theaccent color themes 
+* bug_testing = Shows details in depth
+* no_text = Whether you want the text or not. False = Text, True = No Text
